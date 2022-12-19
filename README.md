@@ -1,1 +1,1 @@
-https://visaranams.github.io/angularJS.github.io/index.html
+https://angularJS.github.io/index.html
